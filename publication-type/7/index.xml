@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | APenzko</title>
+    <link>https://apenzko.uber.space/publication-type/7/</link>
+      <atom:link href="https://apenzko.uber.space/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apenzko.uber.space/media/icon_hue8a37b14953d254b6cb1b6ad13ce1a3f_51405_512x512_fill_lanczos_center_3.png</url>
+      <title>7</title>
+      <link>https://apenzko.uber.space/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>[Master Thesis] Leveraging Intention Recognition from Eye Gaze for Hierarchical Imitation Learning</title>
+      <link>https://apenzko.uber.space/publication/msc_thesis/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://apenzko.uber.space/publication/msc_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Bachelor Thesis] Analyzing Feature Extraction for Automatic Conversation Analysis on 360-Degree Videos</title>
+      <link>https://apenzko.uber.space/publication/bsc_thesis/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://apenzko.uber.space/publication/bsc_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

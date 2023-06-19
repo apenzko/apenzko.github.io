@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intention recognition | APenzko</title>
+    <link>https://apenzko.uber.space/tag/intention-recognition/</link>
+      <atom:link href="https://apenzko.uber.space/tag/intention-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>intention recognition</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apenzko.uber.space/media/icon_hue8a37b14953d254b6cb1b6ad13ce1a3f_51405_512x512_fill_lanczos_center_3.png</url>
+      <title>intention recognition</title>
+      <link>https://apenzko.uber.space/tag/intention-recognition/</link>
+    </image>
+    
+    <item>
+      <title>[Master Thesis] Leveraging Intention Recognition from Eye Gaze for Hierarchical Imitation Learning</title>
+      <link>https://apenzko.uber.space/publication/msc_thesis/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://apenzko.uber.space/publication/msc_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

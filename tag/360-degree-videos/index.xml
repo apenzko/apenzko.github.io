@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>360-degree videos | APenzko</title>
+    <link>https://apenzko.uber.space/tag/360-degree-videos/</link>
+      <atom:link href="https://apenzko.uber.space/tag/360-degree-videos/index.xml" rel="self" type="application/rss+xml" />
+    <description>360-degree videos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://apenzko.uber.space/media/icon_hue8a37b14953d254b6cb1b6ad13ce1a3f_51405_512x512_fill_lanczos_center_3.png</url>
+      <title>360-degree videos</title>
+      <link>https://apenzko.uber.space/tag/360-degree-videos/</link>
+    </image>
+    
+    <item>
+      <title>[Bachelor Thesis] Analyzing Feature Extraction for Automatic Conversation Analysis on 360-Degree Videos</title>
+      <link>https://apenzko.uber.space/publication/bsc_thesis/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://apenzko.uber.space/publication/bsc_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
