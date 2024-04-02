@@ -216,6 +216,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - INSTALL.md
+  - about_einstein.md
   - LICENSE
   - lighthouse_results/
   - package.json
