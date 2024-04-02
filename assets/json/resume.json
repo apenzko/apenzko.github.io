@@ -24,6 +24,33 @@
       "endDate": "present",
       "summary": "Part of research group Human-Computer-Interaction and Cognitive Systems led by Prof. Dr. Andreas Bulling",
       "highlights": ["Interactive Behaviour", "Computer Vision", "Reinforcement Learning"]
+    },
+    {
+      "name": "German Aerospace Center (DLR)",
+      "position": "Working Student -- Perception & Cognition",
+      "location": "Munich, Germany",
+      "url": "https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8023/11888_read-28100/",
+      "startDate": "2021-02-01",
+      "endDate": "2022-03-31",
+      "summary": "Part of perception & cognition group, working on semantic segmentation for real-time navigation robot Rollin' Justin. Collaboration on open-source tool Blender-Proc https://github.com/DLR-RM/BlenderProc."
+    },
+    {
+      "name": "Siemens AG",
+      "position": "Working Student -- Data Analytics",
+      "location": "Munich, Germany",
+      "url": "https://www.siemens.com/global/en/products/automation/industry-software/digital-applications-and-services-for-process-industries/data-analytics-services.html",
+      "startDate": "2019-10-01",
+      "endDate": "2020-12-31",
+      "summary": "Preprocess and analyze project data, implement data augmentation and fit forecasting for classification models."
+    },
+    {
+      "name": "University of Stuttgart",
+      "position": "Research Assistant -- Machine Learning",
+      "location": "Stuttgart, Germany",
+      "url": "https://www.vis.uni-stuttgart.de/",
+      "startDate": "2018-11-01",
+      "endDate": "2019-08-30",
+      "summary": "Conduct research on learning-based gaze estimation as well as image synthesis such as gaze redirection and generative adversarial networks, including testing state-of-the-art methods, analyzing and developing new models."
     }
   ],
   "education": [
