@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Candidate. <a href='https://www.uni-stuttgart.de/'>University of Stuttgart</a>. <a href='https://perceptualui.org/'>Perceptual User Interfaces</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  #more_info: >
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, my name is Anna. I’m a PhD student at University of Stuttgart at the Institute for visualization and interactive systems (VIS), affiliated with the perceptual user interfaces group. I've been doing research since my bachelor’s degree at Stuttgart in 2018, where I published my first paper at ICMI'21. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My personal research goal is understanding and developing a biologically plausible model of human visual processing, from bottom-up vision to spatial and abstract reasoning on natural images. I am particularly interested in integrating cognitive models with machine learning methods. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I regularly work with vision-language models for tasks such as object detection, or visual question answering. Additionally, I am interested in reinforcement learning agents and their strong link to human adaptive learning processes. 
