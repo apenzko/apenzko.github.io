@@ -2,11 +2,42 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
+<hr>
+<h3>courses</h3>
+<dl style="display: grid; grid-template-columns: max-content auto;">
+  <dt style="grid-column-start: 1;">2023</dt>
+  <dd style="grid-column-start: 2; margin-inline-start: 40px;"> Human-Computer-Interaction (Teaching Assistant)
+  	<span class="status" style="float: right;">Bachelor</span>
+  </dd>
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+  <dt style="grid-column-start: 1;">2024</dt>
+  <dd style="grid-column-start: 2; margin-inline-start: 40px;"> Practical Course -- Computational Theory of Mind & Cognition 
+  	<span class="status" style="float: right;">Master</span>
+  </dd>
+</dl>
 
-Organize your courses by years, topics, or universities, however you like!
+
+<hr>
+<h3>theses</h3>
+<dl style="display: grid; grid-template-columns: max-content auto;">
+  <dt style="grid-column-start: 1;">2023</dt>
+  <dd style="grid-column-start: 2; margin-inline-start: 40px;"> Evaluation of Different Image Representations for Reinforcement Learning Agents (M.Sc.) 
+  	<span class="status" style="float: right;">Jayakumar Ramasamy Sundararaj*</span>
+  </dd>
+
+  <dt style="grid-column-start: 1;"> &nbsp; </dt>
+  <dd style="grid-column-start: 2; margin-inline-start: 40px;"> Biologically Plausible Reinforcement Learning (B.Sc.) 
+  	<span class="status" style="float: right;">Tobias Stegmaier</span>
+  </dd>
+
+  <dt style="grid-column-start: 1;"> &nbsp; </dt>
+  <dd style="grid-column-start: 2; margin-inline-start: 40px;">  An Adaptive Model of Gaze-based Selection (INFOTECH project) 
+  	<span class="status" style="float: right;">Jayakumar Ramasamy Sundararaj</span>
+  </dd>
+
+</dl>
+<span style="float: right;">* co-supervised with <a href="https://constantinruhdorfer.github.io/">Constantin Ruhdorfer</a></span>

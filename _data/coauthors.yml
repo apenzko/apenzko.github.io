@@ -1,34 +1,27 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"bulling":
+  - firstname: ["Andreas", "A."]
+    url: https://perceptualui.org/people/bulling/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"mayer":
+  - firstname: ["Sven", "S."]
+    url: https://sven-mayer.com/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"mueller":
+  - firstname: ["Philipp", "P."]
+    url: https://www-live.dfki.de/web/ueber-uns/mitarbeiter/person/phmu01
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"müller":
+  - firstname: ["Philipp", "P."]
+    url: https://www-live.dfki.de/web/ueber-uns/mitarbeiter/person/phmu01
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"shi":
+  - firstname: ["Lei", "L."]
+    url: https://www.perceptualui.org/people/shi/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"bortoletto":
+  - firstname: ["Matteo", "M."]  
+    url: https://mattbortoletto.github.io/ 
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"ruhdorfer":
+  - firstname: ["Constantin", "C."]
+    url: https://constantinruhdorfer.github.io/
