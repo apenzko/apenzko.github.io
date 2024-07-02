@@ -20,3 +20,5 @@ Hi, my name is Anna. I’m a PhD student at University of Stuttgart at the Insti
 My personal research goal is understanding and developing a biologically plausible model of human visual processing, from bottom-up vision to spatial and abstract reasoning on natural images. I am particularly interested in integrating cognitive models with machine learning methods. 
 
 I regularly work with vision-language models for tasks such as object detection, or visual question answering. Additionally, I am interested in reinforcement learning agents and their strong link to human adaptive learning processes. 
+
+If you're interested in a master/bachelor thesis with us, check out <a href="https://www.perceptualui.org/teaching/open-projects/">our projects page</a>.

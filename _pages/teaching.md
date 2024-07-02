@@ -24,6 +24,18 @@ nav_order: 3
 <hr>
 <h3>theses</h3>
 <dl style="display: grid; grid-template-columns: max-content auto;">
+  <dt style="grid-column-start: 1;">2024</dt>
+  <dd style="grid-column-start: 2; margin-inline-start: 40px;"> Leveraging Biologically-plausible Representations for Robust and Efficient Generalization in Reinforcement Learning (M.Sc.)
+  	<span class="status" style="float: right;">Nan Jiang*</span>
+  </dd>
+
+  <dt style="grid-column-start: 1;"> &nbsp; </dt>
+  <dd style="grid-column-start: 2; margin-inline-start: 40px;"> Cognitively-plausible Mental Image Representation (B.Sc.) 
+  	<span class="status" style="float: right;">Sawelij Mödinger</span>
+  </dd>
+
+</dl>
+<dl style="display: grid; grid-template-columns: max-content auto;">
   <dt style="grid-column-start: 1;">2023</dt>
   <dd style="grid-column-start: 2; margin-inline-start: 40px;"> Evaluation of Different Image Representations for Reinforcement Learning Agents (M.Sc.) 
   	<span class="status" style="float: right;">Jayakumar Ramasamy Sundararaj*</span>
