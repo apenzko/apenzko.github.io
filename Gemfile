@@ -11,16 +11,21 @@ group :jekyll_plugins do
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
+    gem 'jekyll-regex-replace'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
+    gem 'jekyll-tabs'
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    gem 'terser'
     gem 'unicode_utils'
     gem 'webrick'
 end
 group :other_plugins do
+    gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
+    gem 'observer' # used by jekyll-scholar
+    gem 'ostruct' # used by jekyll-twitter-plugin
 end
