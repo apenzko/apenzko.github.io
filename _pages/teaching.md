@@ -9,17 +9,17 @@ nav_order: 3
 <hr>
 <h3>courses</h3>
 <dl style="display: grid; grid-template-columns: max-content auto;">
-  <dt style="grid-column-start: 1;">2023</dt>
-  <dd style="grid-column-start: 2; margin-inline-start: 40px;"> Human-Computer-Interaction (Teaching Assistant)
-  	<span class="status" style="float: right;">Bachelor</span>
-  </dd>
-
   <dt style="grid-column-start: 1;">2024</dt>
   <dd style="grid-column-start: 2; margin-inline-start: 40px;"> Practical Course -- Computational Theory of Mind & Cognition 
   	<span class="status" style="float: right;">Master</span>
   </dd>
   <dd style="grid-column-start: 2; margin-inline-start: 40px;"> Machine, Perception and Learning (Tutor) 
   	<span class="status" style="float: right;">Master</span>
+  </dd>
+
+  <dt style="grid-column-start: 1;">2023</dt>
+  <dd style="grid-column-start: 2; margin-inline-start: 40px;"> Human-Computer-Interaction (Teaching Assistant)
+  	<span class="status" style="float: right;">Bachelor</span>
   </dd>
 </dl>
 
