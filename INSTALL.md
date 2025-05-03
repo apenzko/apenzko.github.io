@@ -61,6 +61,7 @@ $ docker compose up
 ```
 # creates Gemfile.lock
 bundle install 
+docker compose up --build
 ```
 
 
