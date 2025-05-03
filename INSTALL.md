@@ -54,6 +54,16 @@ $ docker compose pull
 $ docker compose up
 ```
 
+### Fix docker issues
+- Download latest docker update 
+- Use al-folio v0.13.3 
+
+```
+# creates Gemfile.lock
+bundle install 
+```
+
+
 Note that when you run it for the first time, it will download a docker image of size 400MB or so. To see the template running, open your browser and go to `http://localhost:8080`. You should see a copy of the theme's demo website.
 
 Now, feel free to customize the theme however you like (don't forget to change the name!). Also, your changes should be automatically rendered in real-time (or maybe after a few seconds).

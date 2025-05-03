@@ -22,3 +22,8 @@ My personal research goal is understanding and developing a biologically plausib
 I regularly work with vision-language models for tasks such as object detection, or visual question answering. Additionally, I am interested in reinforcement learning agents and their strong link to human adaptive learning processes. 
 
 If you're interested in a master/bachelor thesis with us, check out <a href="https://www.perceptualui.org/teaching/open-projects/">our projects page</a>.
+
+
+<p style="color: var(--global-text-color)">
+I'm currently a visiting graduate student at University of Waterloo with the <a href="https://compneuro.uwaterloo.ca/index.html">Computational Neuroscience Research Group (CNRG)</a>
+.</p>
