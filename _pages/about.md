@@ -23,7 +23,8 @@ I regularly work with vision-language models for tasks such as object detection,
 
 If you're interested in a master/bachelor thesis with us, check out <a href="https://www.perceptualui.org/teaching/open-projects/">our projects page</a>.
 
-
+<!-- 
 <p style="color: var(--global-text-color)">
 I'm currently a visiting graduate student at University of Waterloo with the <a href="https://compneuro.uwaterloo.ca/index.html">Computational Neuroscience Research Group (CNRG)</a>
 .</p>
+-->
